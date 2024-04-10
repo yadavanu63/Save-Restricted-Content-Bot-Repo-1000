@@ -133,7 +133,7 @@ async def get_msg(userbot, client, sender, edit_id, msg_link, i, file_n):
                 progress=progress_for_pyrogram,
                 progress_args=(
                     client,
-                    "**__Unrestricting__: __[『𝗛𝗘𝗠𝗨』](https://t.me/hemubot148)__**\n ",
+                    "**__Unrestricting__: __[『 @sccwaleyarr 』](https://t.me/rajcourse)__**\n ",
                     edit,
                     time.time()
                 )
@@ -174,7 +174,7 @@ async def get_msg(userbot, client, sender, edit_id, msg_link, i, file_n):
                     logging.info(e)
                     thumb_path = None
                 
-                caption = f"{msg.caption}\n\n__Unrestricted by **[『𝗛𝗘𝗠𝗨』](https://t.me/hemubot148)**__" if msg.caption else "__Unrestricted by **[Deadpool](https://t.me/+DGQfhgy65yxhYWU1)**__"
+                caption = f"{msg.caption}\n\n__Unrestricted by **[『 @sccwaleyarr 』](https://t.me/rajcourse)**__" if msg.caption else "__Unrestricted by **[r@j](https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAJU1GYWYUf0j3yQdjloyilgpezvgAY-AAK8uzEbYCC4VHEyXZCDiNhhAQADAgADeAADNAQ)**__"
                 await client.send_video(
                     chat_id=sender,
                     video=path,
@@ -187,7 +187,7 @@ async def get_msg(userbot, client, sender, edit_id, msg_link, i, file_n):
                     progress=progress_for_pyrogram,
                     progress_args=(
                         client,
-                        '**__Uploading: [『𝗛𝗘𝗠𝗨』](https://t.me/hemubot148)__**\n ',
+                        '**__Uploading: [『 @sccwaleyarr 』](https://t.me/rajcourse)__**\n ',
                         upm,
                         time.time()
                     )
@@ -204,7 +204,7 @@ async def get_msg(userbot, client, sender, edit_id, msg_link, i, file_n):
                     file = path
 
                 
-                caption = f"{msg.caption}\n\n__Unrestricted by **[『𝗛𝗘𝗠𝗨』](https://t.me/hemubot148)**__" if msg.caption else "__Unrestricted by **[『𝗛𝗘𝗠𝗨』](https://t.me/hemubot148)**__"
+                caption = f"{msg.caption}\n\n__Unrestricted by **[『 @sccwaleyarr 』](https://t.me/rajcourse)**__" if msg.caption else "__Unrestricted by **[『 @sccwaleyarr 』](https://t.me/rajcourse)**__"
                 await upm.edit("__Uploading photo...__")
 
                 await bot.send_file(sender, path, caption=caption)
@@ -220,7 +220,7 @@ async def get_msg(userbot, client, sender, edit_id, msg_link, i, file_n):
                     file = path
                 thumb_path=thumbnail(sender)
                 
-                caption = f"{msg.caption}\n\n__Unrestricted by **[『𝗛𝗘𝗠𝗨』](https://t.me/hemubot148)**__" if msg.caption else "__Unrestricted by **[『𝗛𝗘𝗠𝗨』](https://t.me/hemubot148)**__"
+                caption = f"{msg.caption}\n\n__Unrestricted by **[『 @sccwaleyarr 』](https://t.me/rajcourse)**__" if msg.caption else "__Unrestricted by **[『 @sccwaleyarr 』](https://t.me/rajcourse)**__"
                 await client.send_document(
                     sender,
                     path, 
@@ -229,7 +229,7 @@ async def get_msg(userbot, client, sender, edit_id, msg_link, i, file_n):
                     progress=progress_for_pyrogram,
                     progress_args=(
                         client,
-                        '**__Uploading:__**\n**__Bot made by [『𝗛𝗘𝗠𝗨』](https://t.me/hemubot148)__**',
+                        '**__Uploading:__**\n**__Bot made by [『 @sccwaleyarr 』](https://t.me/rajcourse)__**',
                         upm,
                         time.time()
                     )
