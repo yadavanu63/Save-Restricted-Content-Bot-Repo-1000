@@ -151,14 +151,14 @@ async def run_batch(userbot, client, sender, countdown, link):
             logger.info(e)
             await client.send_message(sender, f"An error occurred during cloning, batch will continue.\n\n**Error:** {str(e)}")
             if countdown.text != count_down:
-                await countdown.edit(count_down, buttons=[[Button.url("Join Channel", url="https://t.me/hemubot148")]])
+                await countdown.edit(count_down, buttons=[[Button.url("Join Channel", url="https://t.me/rajcourse")]])
         n = i + 1
         if n == len(ids):
             return -2
 
 C = "/cancel"
-START_PIC = "https://graph.org/file/05be568f195e32e75f32f.jpg"
-TEXT = "👋 Hi, This is 'Paid Restricted Content Saver' bot Made with ❤️ by __**Team 『R@j』**__."
+START_PIC = "https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAJU1GYWYUf0j3yQdjloyilgpezvgAY-AAK8uzEbYCC4VHEyXZCDiNhhAQADAgADeAADNAQ"
+TEXT = "👋 Hi, This is 'Paid Restricted Content Saver' bot Made with ❤️ by __**Team 『@sccwaleyarr』**__."
 
 @gagan.on(events.NewMessage(pattern=f"^{C}"))
 async def start_command(event):
@@ -181,7 +181,7 @@ TEXTING = """
 ```
 Execute /batch command only when you 100% sure.
 Bcz /cancel event is removed to make bot work perfectly.
-Thanks - Team SPY
+Thanks - Team r@j
 
 ```
 """
