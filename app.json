@@ -1,6 +1,6 @@
 {
 
-    "name": "Save restricted content bot by @hemu148",
+    "name": "Save restricted content bot by @rajcourse",
     "description": "Telegram bot to save restricted content.",
     "logo": "",
     "keywords": [
@@ -10,31 +10,31 @@
     ],
     "repository": "https://github.com/Vijaysingh147/save_restricted-content-telegram-bot-repo",
     "website": "",
-    "success_url": "https://t.me/hemubot148",
+    "success_url": "https://t.me/rajcourse",
     "env": {
             "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": "8d5171c23fd1836db908b8739d288336"
+            "value": "4f720e70ce155df40213026c31ccd819"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": "27006142"
+            "value": "25322308"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "6505425924:AAEiyZZzj6jfk1sNoUvqT5O2fksvxZW0BSg"
+            "value": "7115180370:AAFjdmcXTiNZ4nxZutRJF447A7fFexFoHNw"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": "BQGcFL4AQ6dboWAe-bISRW6JlfWI0KxTjtRHTeg0u1rg8yjFVbeloAEfs9AMhNxsFhBuNkDyK8R4PLOT_ostxsTHddU6EyOCkm0h-J020kQPB6yCkbnnm4UrFacp2WYRaJID0BZD4H_x3gp77jWbL0TrP-vQ7vcIouMrNTNJPPGuf4bBP5Q4dpo7kE6MqKrGyeqQqK9Zh5jRRqQ5HDLvcktWYKicXKAiVVxLAkTRdiwDWGQ3cLDuqHQYQjNNVdAAZ2L9n-hXd56sVqxl2V1AHTtmyotuVcYLHbrrQ_4QqEoWSd2WDoK5ne4QLgBlB-RqLJZmnhBHeaooLAQqoeGE5NNKyXZtEQAAAABrL7uFAA"
+            "value": "BQGCY0QAVBKTKh0M1uqQHQFAKWDhLF8d9BDk1sXOzYS4SYg5tNzYTIYazHGcqMUMMg-rxoXZjpg0mJTroOqze_QbYzBNnVgEH2BfxTUuqloO1QCR0l8-htfYU18bXYrJyybw4V_ydb5sur7_QwgkB04enLi4_54aXwYqVMJLWYhDAimbgNB9V43nFWaWNpT9q37NSnjUwTOmpaJOg1xveazmc4ZoHl9rjWI-vDVPqqssd4ps_Q6NhXMr0jTwhEKg2xfPG5wYyE0X7Z9mi6QnfXCRSwTtoaA1QMwY_mahPSEumXzojDP03nmXk1w3TUYhAe3ovSgoO1sA3LsLu06GpIpqre60swAAAAGsO196AA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": "1798290309"
+            "value": "7184539514"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": "hemubot148"
+            "value": "rajcourse"
         }
     },
     "stack": "container"
