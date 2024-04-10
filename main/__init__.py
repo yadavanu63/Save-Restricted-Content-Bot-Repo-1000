@@ -39,7 +39,7 @@ userbot = Client("myacc",api_id=API_ID,api_hash=API_HASH,session_string=SESSION)
 try:
     userbot.start()
 except BaseException:
-    print("Your session expired please re add that... thanks @hemendra148.")
+    print("Your session expired please re add that... thanks @rajcourse.")
     sys.exit(1)
 
 Bot = Client(
