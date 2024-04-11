@@ -204,7 +204,7 @@ async def get_msg(userbot, client, sender, edit_id, msg_link, i, file_n):
                     file = path
 
                 
-                caption = f"{msg.caption}\n\n__Unrestricted by **[『 @sccwaleyarr 』](https://t.me/rajcourse)**__" if msg.caption else "__Unrestricted by **[『 @sccwaleyarr 』](https://t.me/rajcourse)**__"
+                caption = f"{msg.caption}\n\n__Download by **[『 @sccwaleyarr 』](https://t.me/rajcourse)**__" if msg.caption else "__Unrestricted by **[『 @sccwaleyarr 』](https://t.me/rajcourse)**__"
                 await upm.edit("__Uploading photo...__")
 
                 await bot.send_file(sender, path, caption=caption)
