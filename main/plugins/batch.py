@@ -157,8 +157,8 @@ async def run_batch(userbot, client, sender, countdown, link):
             return -2
 
 C = "/cancel"
-START_PIC = "https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAJU1GYWYUf0j3yQdjloyilgpezvgAY-AAK8uzEbYCC4VHEyXZCDiNhhAQADAgADeAADNAQ"
-TEXT = "👋 Hi, This is 'Paid Restricted Content Saver' bot Made with ❤️ by __**Team 『@sccwaleyarr』**__."
+START_PIC = "https://graph.org/file/aaee4cae31bb9c48621e2.jpg"
+TEXT = "👋 Hi, This is 'Paid Restricted Content Saver' bot Made with ❤️ by __**Team 『r@j』**__."
 
 @gagan.on(events.NewMessage(pattern=f"^{C}"))
 async def start_command(event):
