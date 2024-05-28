@@ -14,27 +14,27 @@
     "env": {
             "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": "4f720e70ce155df40213026c31ccd819"
+            "value": "a98b5be0127986be1cc2553dbd99765e"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": "25322308"
+            "value": "24478182"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "7115180370:AAFjdmcXTiNZ4nxZutRJF447A7fFexFoHNw"
+            "value": "7005938292:AAGSjWu9fXMSAtyu_G1ikK57Qn3IJLVWny8"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": "BQGCY0QAVBKTKh0M1uqQHQFAKWDhLF8d9BDk1sXOzYS4SYg5tNzYTIYazHGcqMUMMg-rxoXZjpg0mJTroOqze_QbYzBNnVgEH2BfxTUuqloO1QCR0l8-htfYU18bXYrJyybw4V_ydb5sur7_QwgkB04enLi4_54aXwYqVMJLWYhDAimbgNB9V43nFWaWNpT9q37NSnjUwTOmpaJOg1xveazmc4ZoHl9rjWI-vDVPqqssd4ps_Q6NhXMr0jTwhEKg2xfPG5wYyE0X7Z9mi6QnfXCRSwTtoaA1QMwY_mahPSEumXzojDP03nmXk1w3TUYhAe3ovSgoO1sA3LsLu06GpIpqre60swAAAAGsO196AA"
+            "value": "BQF1-sYAJX_Tl6dteROlH9SRSHV819wf3Ca7wTIOyttL7aRrXLMergKUBSl5WDOuYA3mPtfrdWXkkFXH9mxyQpSXcP1lvBKfZpz9a3c8i1FtNQR3y5EdYrd39czZRpdUDBI-zJFNc8qwi5-FCvDYI2cttsPyVWMbNiX4ypNCyzMp9x0DHOJXBmbG2omMcDwnrSJXGQDNuNucqgWNnUwyWDIAeNAlMLXeXRmit2QI7GjN0PUSMMtgTQOXTTIjwTq1T9Y39plM7gQy1UvX5QeNYvHFVfhjwHHs1wD0Z48xvnT6S49X4Xrdc8dV0DZrj0T_YCD3s4QS9XYfXP2tuZq7Kc_fgQVKeAAAAAFtN-YKAA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": "7184539514"
+            "value": "7097613157"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": "rajcourse"
+            "value": "helloworldtyugg"
         }
     },
     "stack": "container"
